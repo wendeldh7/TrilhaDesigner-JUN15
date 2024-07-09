@@ -79,3 +79,18 @@ Achou esse projeto inicial simples? Eleve ainda mais! Estamos em busca de mentes
 Está com alguma dificuldade, encontrou algum problema no desafio ou tem alguma sugestão pra gente? Crie uma issue e descreva o que achar necessário.
 
 **Construindo o amanhã, hoje.**
+
+Designer do meu projeto!
+
+Desktop
+![1](https://github.com/wendeldh7/desafio-github-markdown/assets/85760216/ebec4598-1e08-45f5-8c2b-a7465c664ea4)
+![2](https://github.com/wendeldh7/desafio-github-markdown/assets/85760216/ffcabb26-8e73-4a48-b565-78db0406a392)
+![3](https://github.com/wendeldh7/desafio-github-markdown/assets/85760216/c414c03f-b9ba-45fa-9d0e-1ead0bcd20d9)
+
+
+Mobile
+![1](https://github.com/wendeldh7/desafio-github-markdown/assets/85760216/7349f9f2-20a5-418c-aa70-6c6f582aa612)
+![2](https://github.com/wendeldh7/desafio-github-markdown/assets/85760216/2b2ae551-16b1-4f84-894e-2ddff5222789)
+![3](https://github.com/wendeldh7/desafio-github-markdown/assets/85760216/187de4af-4332-449b-a2a5-96b952969120)
+
+
